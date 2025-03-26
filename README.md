@@ -27,7 +27,4 @@ suno.ai로 만든 힘찬 운동 노래 (운동.mp3)
 
 #### 2025/3/26
 
-https://github.com/jwww781/jwwwwwww
-
-
-
+[copilot로 프로그램 만들기](https://github.com/jwww781/jwwwwwww)
